@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution github repo](https://github.com/Twixii99/Frontend-Mentor--Results-summary-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live website](https://twixii99.github.io/Frontend-Mentor--Results-summary-component/)
 
 ## My process
 
